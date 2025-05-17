@@ -12,7 +12,7 @@ const App = () => {
         <div className='flex gap-7'>
 
         <div className='bg-amber-200 rounded-sm'><h1>Main Dish</h1><p>(86 dishes)</p></div>
-        <div className='bg-amber-200 rounded-sm'><h1>Break Fast</h1><p>(12 break fast)</p></div>
+        <div className='bg-amber-200 rounded-sm'><h1>Break Fast</h1><p>(12 break fast)</p></div>   
         <div className='bg-amber-200 rounded-sm'><h1>Dessert</h1><p>(48 dessert)</p></div>
 
         </div>
